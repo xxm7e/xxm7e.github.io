@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8f0;
+    color: #333;
+    margin: 0;
+    padding: 0 15px;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f39c12;
+    color: white;
+}
+
+.category {
+    margin-bottom: 30px;
+}
+
+.category h2 {
+    color: #d35400;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px 0;
+    border-bottom: 1px dashed #ccc;
+}
